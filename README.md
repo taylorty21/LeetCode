@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-12
+Last updated: 2017-06-13
 
-I've solved 30/547 problems (101 problems for a fee).
+I've solved 31/547 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -28,6 +28,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [java](./144.binary-tree-preorder-traversal/binary-tree-preorder-traversal.java)| Medium|
 |155|[min-stack](https://leetcode.com/problems/min-stack/)| [java](./155.min-stack/min-stack.java)| Medium|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
+|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)| [java](./203.remove-linked-list-elements/remove-linked-list-elements.java)| Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [java](./215.kth-largest-element-in-an-array/kth-largest-element-in-an-array.java)| Medium|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [java](./232.implement-queue-using-stacks/implement-queue-using-stacks.java)| Medium|
