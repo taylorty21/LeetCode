@@ -3,17 +3,19 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-15
+Last updated: 2017-06-18
 
-I've solved 35/547 problems (101 problems for a fee).
+I've solved 43/551 problems (101 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
 | # | Problems | Solutions | Difficulty |
 |:--:|:-----:|:---------:|:----:|
+|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./002.add-two-numbers/add-two-numbers.java)| Medium|
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](./007.reverse-integer/reverse-integer.java)| Easy|
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|
+|028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [java](./028.implement-strstr/implement-strstr.java)| Easy|
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [java](./035.search-insert-position/search-insert-position.java)| Easy|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
@@ -39,10 +41,16 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [java](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)| Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](./238.product-of-array-except-self/product-of-array-except-self.java)| Medium|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
+|268|[missing-number](https://leetcode.com/problems/missing-number/)| [java](./268.missing-number/missing-number.java)| Easy|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [java](./278.first-bad-version/first-bad-version.java)| Easy|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
+|292|[nim-game](https://leetcode.com/problems/nim-game/)| [java](./292.nim-game/nim-game.java)| Easy|
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/)| [java](./328.odd-even-linked-list/odd-even-linked-list.java)| Medium|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string/)| [java](./344.reverse-string/reverse-string.java)| Easy|
 |367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/)| [java](./367.valid-perfect-square/valid-perfect-square.java)| Easy|
+|378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| [java](./378.kth-smallest-element-in-a-sorted-matrix/kth-smallest-element-in-a-sorted-matrix.java)| Medium|
 |412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)| [java](./412.fizz-buzz/fizz-buzz.java)| Easy|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins/)| [java](./441.arranging-coins/arranging-coins.java)| Easy|
+|445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [java](./445.add-two-numbers-ii/add-two-numbers-ii.java)| Medium|
+|461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
