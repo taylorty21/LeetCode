@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-07-02
+Last updated: 2017-07-06
 
-I've solved 73/559 problems (101 problems for a fee).
+I've solved 74/559 problems (105 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -27,6 +27,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |046|[permutations](https://leetcode.com/problems/permutations/)| [java](./046.permutations/permutations.java)| Medium|
 |047|[permutations-ii](https://leetcode.com/problems/permutations-ii/)| [java](./047.permutations-ii/permutations-ii.java)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [java](./048.rotate-image/rotate-image.java)| Medium|
+|053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [java](./053.maximum-subarray/maximum-subarray.java)| Easy|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [java](./061.rotate-list/rotate-list.java)| Medium|
 |067|[add-binary](https://leetcode.com/problems/add-binary/)| [java](./067.add-binary/add-binary.java)| Easy|
 |069|[sqrtx](https://leetcode.com/problems/sqrtx/)| [java](./069.sqrtx/sqrtx.java)| Easy|
