@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-08-12
+Last updated: 2017-08-16
 
-I've solved 82/581 problems (110 problems for a fee).
+I've solved 88/585 problems (110 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -49,6 +49,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./110.balanced-binary-tree/balanced-binary-tree.java)| Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [java](./111.minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.java)| Easy|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [java](./116.populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.java)| Medium|
+|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [java](./117.populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.java)| Medium|
 |136|[single-number](https://leetcode.com/problems/single-number/)| [java](./136.single-number/single-number.java)| Easy|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./141.linked-list-cycle/linked-list-cycle.java)| Easy|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list/)| [java](./143.reorder-list/reorder-list.java)| Medium|
@@ -58,6 +59,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [java](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.java)| Easy|
 |162|[find-peak-element](https://leetcode.com/problems/find-peak-element/)| [java](./162.find-peak-element/find-peak-element.java)| Medium|
 |167|[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [java](./167.two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java)| Easy|
+|200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [java](./200.number-of-islands/number-of-islands.java)| Medium|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)| [java](./203.remove-linked-list-elements/remove-linked-list-elements.java)| Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [java](./206.reverse-linked-list/reverse-linked-list.java)| Easy|
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [java](./209.minimum-size-subarray-sum/minimum-size-subarray-sum.java)| Medium|
@@ -67,8 +69,10 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [java](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)| Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)| [java](./238.product-of-array-except-self/product-of-array-except-self.java)| Medium|
 |240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [java](./240.search-a-2d-matrix-ii/search-a-2d-matrix-ii.java)| Medium|
+|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/)| [java](./257.binary-tree-paths/binary-tree-paths.java)| Easy|
 |268|[missing-number](https://leetcode.com/problems/missing-number/)| [java](./268.missing-number/missing-number.java)| Easy|
 |278|[first-bad-version](https://leetcode.com/problems/first-bad-version/)| [java](./278.first-bad-version/first-bad-version.java)| Easy|
+|279|[perfect-squares](https://leetcode.com/problems/perfect-squares/)| [java](./279.perfect-squares/perfect-squares.java)| Medium|
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/)|| Easy|
 |287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/)| [java](./287.find-the-duplicate-number/find-the-duplicate-number.java)| Medium|
 |292|[nim-game](https://leetcode.com/problems/nim-game/)| [java](./292.nim-game/nim-game.java)| Easy|
@@ -85,6 +89,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |461|[hamming-distance](https://leetcode.com/problems/hamming-distance/)| [java](./461.hamming-distance/hamming-distance.java)| Easy|
 |485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/)| [java](./485.max-consecutive-ones/max-consecutive-ones.java)| Easy|
 |495|[teemo-attacking](https://leetcode.com/problems/teemo-attacking/)| [java](./495.teemo-attacking/teemo-attacking.java)| Medium|
+|500|[keyboard-row](https://leetcode.com/problems/keyboard-row/)| [java](./500.keyboard-row/keyboard-row.java)| Easy|
 |535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl/)| [java](./535.encode-and-decode-tinyurl/encode-and-decode-tinyurl.java)| Medium|
 |537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication/)| [java](./537.complex-number-multiplication/complex-number-multiplication.java)| Medium|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii/)| [java](./541.reverse-string-ii/reverse-string-ii.java)| Easy|
@@ -92,4 +97,5 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [java](./557.reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.java)| Easy|
 |561|[array-partition-i](https://leetcode.com/problems/array-partition-i/)| [java](./561.array-partition-i/array-partition-i.java)| Easy|
 |575|[distribute-candies](https://leetcode.com/problems/distribute-candies/)| [java](./575.distribute-candies/distribute-candies.java)| Easy|
+|606|[construct-string-from-binary-tree](https://leetcode.com/problems/construct-string-from-binary-tree/)| [java](./606.construct-string-from-binary-tree/construct-string-from-binary-tree.java)| Easy|
 |628|[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|| Easy|
